@@ -94,13 +94,50 @@ p {
     width: 525px;
     height: 250px;
 
-}.second-container {
+}
+
+.second-container {
     display: flex;
     text-align: center;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
+    height: 500px;
 }
+
+.second-container .title {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 120px;
+
+}
+
+.info {
+    max-width: 180px;
+    margin-top: 40px;
+
+}
+
+#card {
+    border: 5px solid #3882f6;
+    height: 180px;
+    width: 180px;
+    border-radius: 10%;
+
+}
+
+.text {
+    font-size: 18px;
+}
+
+
 
 
 
