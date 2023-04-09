@@ -137,6 +137,39 @@ p {
     font-size: 18px;
 }
 
+.third-container {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    height: 450px;
+
+}
+
+.third-container .container {
+    display: flex;
+    flex-direction: column;
+}
+
+p1 {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    max-width: 900px;
+    margin-top: 80px;
+}
+
+p2 {
+   font-size: 25px;
+   font-weight: bold; 
+   align-self: flex-end;
+   margin-top: -120px;
+}
+
+
+
 
 
 
