@@ -94,6 +94,12 @@ p {
     width: 525px;
     height: 250px;
 
+}.second-container {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
 }
 
 
