@@ -215,6 +215,16 @@ p {
 
 }
 
+.footer {
+    background: #1f2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+
+}
+
 
 
 
